@@ -1,0 +1,68 @@
+h1{
+    display: inline;
+    font-size: 50px;
+font-family:Sans-serif;
+}
+.class2{
+    font-size: 50px;
+    color: rgba(76, 96, 112, 0.854);
+
+font-family:Sans-serif Monospace ;
+}
+.class3{
+    border: 2px solid red;
+    border-radius: 10px;
+    box-shadow: 10px 10px rgb(245, 244, 244);
+    width: 180px;
+    height: 300px;
+    text-align: center;
+}
+.class4{
+font-family:Sans-serif;
+font-size: 20px;
+color: rgb(207, 10, 10)  ;
+}
+hr{
+    width: 150px;
+     margin-left: 30px;
+}
+.class5{
+    font-weight: bold;
+    color: red;
+    font-size: 20px;
+    text-decoration: line-through;
+}
+.class6{
+    font-size: 20px;
+    text-align: start;
+}
+/* input{
+    width: 30px;
+} */
+input[type="checkbox"]{
+    width: 18px;  
+    height: 18px;  }
+
+.class7{
+    display: flex;
+    column-gap: 60px;
+
+}
+.class9{
+    font-size: 28px;
+    color: rgba(76, 96, 112, 0.854);
+
+    font-family:Sans-serif Monospace ;
+    position: relative;
+    left: 250px;
+}
+.class8{
+     
+    color:rgb(247, 9, 9);
+    /* background-color: rgb(228, 19, 19); */
+    
+}
+.class1{
+  margin-left: 450px;
+  margin-top: 200px;
+}

@@ -1,0 +1,101 @@
+
+h1{
+    display: inline;
+    font-size: 50px;
+font-family:Sans-serif;
+}
+.class2{
+    font-size: 50px;
+    color: rgba(76, 96, 112, 0.854);
+
+font-family:Sans-serif Monospace ;
+}
+.class3{
+    border: 2px solid red;
+    border-radius: 10px;
+    box-shadow: 10px 10px rgb(245, 244, 244);
+    width: 180px;
+    height: 300px;
+    text-align: center;
+}
+.class4{
+font-family:Sans-serif;
+font-size: 20px;
+color: rgb(207, 10, 10)  ;
+}
+hr{
+    width: 150px;
+     margin-left: 30px;
+}
+.class5{
+    font-weight: bold;
+    color: red;
+    font-size: 20px;
+    text-decoration: line-through;
+}
+.class6{
+    font-size: 20px;
+    text-align: start;
+}
+/* input{
+    width: 30px;
+} */
+input[type="checkbox"]{
+    width: 18px;  
+    height: 18px;  }
+
+.class7{
+    display: flex;
+    column-gap: 60px;
+
+}
+.class9{
+    font-size: 28px;
+    color: rgba(76, 96, 112, 0.854);
+
+    font-family:Sans-serif Monospace ;
+    position: relative;
+    left: 250px;
+}
+.class8{
+    display:inline-block;
+    /* width: 28px; */
+    /* height: 35px; */
+    color:white;
+    background-color: rgb(208, 28, 28);
+    border-radius:40px;
+    /* font-size: 35px; */
+    font-weight: bolder;
+     
+}
+.class1{
+  margin-left: 450px;
+  margin-top: 200px;
+}
+
+.classblur{
+    filter: blur(8px);
+}
+.class10{
+    height: 150px;
+    width: 300px;
+    border: 2px solid red;
+    border-radius: 20px;
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+    left: 630px;
+    bottom: 250px;
+
+}
+.class11{
+    margin-top: 25px;
+    color: rgb(246, 16, 16);
+}
+button{
+    color: white;
+    width: 75px;
+    height: 30px;
+    background-color: rgba(247, 9, 5, 0.963);
+    border-radius: 20px;
+}

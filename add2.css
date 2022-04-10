@@ -1,0 +1,65 @@
+.class1{
+    font-size: 40px;
+    font-family:Sans-serif Monospace ;
+     margin-left: 40px;
+}
+.class3{
+    border: 2px solid red;
+    border-radius: 10px;
+    box-shadow: 10px 10px rgb(245, 244, 244);
+    width: 300px;
+    height: 300px;
+    text-align: center;
+}
+.class4{
+font-family:Sans-serif;
+font-size: 20px;
+color: rgb(207, 10, 10)  ;
+}
+hr{
+    width: 270px;
+     margin-left: 30px;
+}
+.class5{
+    font-weight: bold;
+    color: red;
+    font-size: 20px;
+    text-decoration: line-through;
+}
+.class6{
+    font-size: 20px;
+    text-align: center;
+}
+.class8{
+    font-size: 25px;
+    font-weight: bold;
+    color: darkgray;
+    position: relative;
+    left: 120px;
+    bottom: 20px;
+}
+.class7{
+    margin-left: 600px;
+    margin-top: 160px;
+}
+.class9{
+    position: relative;
+    right: 280px;
+    bottom: 25px;
+}
+.class10{
+    position: relative;
+    left: 250px;
+    top: 35px;
+}
+.class12{
+    color: red;
+}
+.class16{
+    color: red;
+}
+.class15{
+    position: relative;
+    top: 75px;
+    left: 120px;
+}

@@ -1,0 +1,80 @@
+.class1{
+    font-size: 40px;
+    font-family:Sans-serif Monospace ;
+     margin-left: 40px;
+}
+.class3{
+    border: 2px solid red;
+    border-radius: 10px;
+    box-shadow: 10px 10px rgb(245, 244, 244);
+    width: 300px;
+    height: 300px;
+    text-align: center;
+}
+.class4{
+font-family:Sans-serif;
+font-size: 20px;
+color: rgb(207, 10, 10)  ;
+}
+hr{
+    width: 270px;
+     margin-left: 30px;
+}
+.class5{
+    font-weight: bold;
+    color: red;
+    font-size: 20px;
+    text-decoration: line-through;
+}
+.class6{
+    font-size: 20px;
+    text-align: center;
+}
+.class8{
+    font-size: 25px;
+    font-weight: bold;
+    color: darkgray;
+    position: relative;
+    left: 120px;
+    bottom: 20px;
+}
+.class7{
+    margin-left: 600px;
+    margin-top: 160px;
+}
+.class9{
+    position: relative;
+    right: 280px;
+    bottom: 25px;
+}
+.class10{
+    position: relative;
+    left: 250px;
+    top: 35px;
+}
+.classblur{
+    filter: blur(8px);
+}
+.class13{
+    height: 150px;
+    width: 300px;
+    border: 2px solid red;
+    border-radius: 20px;
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+    left: 630px;
+    bottom: 250px;
+
+}
+.class11{
+    margin-top: 25px;
+    color: rgb(246, 16, 16);
+}
+button{
+    color: white;
+    width: 75px;
+    height: 30px;
+    background-color: rgba(247, 9, 5, 0.963);
+    border-radius: 20px;
+}
